@@ -1,8 +1,11 @@
 .build/
 dist/
-Releases/
 .DS_Store
 .swiftpm/
+
+# Keep installer artifacts folder in repo, but ignore local app bundles there
+Releases/*.app/
+Releases/.DS_Store
 
 # IDE/editor
 .idea/
