@@ -111,6 +111,7 @@ Local Kiklet — menubar-приложение для macOS:
 
 - Документация по модели (`gpt-4o` / `gpt-4o-mini`): [OpenAI Models Docs](https://developers.openai.com/api/docs/models/gpt-4o)
 - Актуальный прайсинг: [OpenAI API Pricing](https://openai.com/api/pricing/)
+- За последние 3 месяца очень активного использования этой модели в Kiklet я потратил менее $2
 
 Встроенные действия включают:
 
