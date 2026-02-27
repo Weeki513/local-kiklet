@@ -1,0 +1,21 @@
+.build/
+dist/
+Releases/
+.DS_Store
+.swiftpm/
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local macOS / Xcode noise
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Local artifacts
+*.log
