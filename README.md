@@ -222,3 +222,7 @@ swift run LocalKiklet
 - Вставка в некоторые защищенные поля macOS может быть недоступна — тогда используется fallback в буфер.
 - Для `OpenAI`-действий нужен API-ключ и интернет.
 - Для production-дистрибуции рекомендуется Developer ID signing + notarization.
+
+## 10. Лицензия
+
+Проект распространяется под лицензией MIT. Полный текст: [LICENSE](LICENSE).
